@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {   
+            "affiliation": "Departemen Sistem Informasi Institut Teknologi Sepuluh Nopember",
+            "name": "Baharuddin, Fikri"
+        },
+        {   
+            "affiliation": "Departemen Sistem Informasi Institut Teknologi Sepuluh Nopember",
+            "name": "Tjahyanto, Aris"
+        }
+    ],    
+
+    "license": "Apache-2.0",
+
+    "title": "Dataset Soal Ujian Bahasa Indonesia Tingkat Sekolah Dasar",
+
+    "keywords": ["Dataset", "Bahasa Indonesia", "WEKA"]
+}
